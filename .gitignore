@@ -1,0 +1,25 @@
+# Dados de ensaio
+*.csv
+*_log.txt
+log_*.txt
+ENSAIO.csv
+
+# Imagens geradas
+*.png
+
+# Documentação gerada
+*.pdf
+
+# Build / distribuição
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# Arquivos de sessão
+RESUMO_SESSAO.md
+
+# Subdiretórios de dados
+ensaios/
+graficos/
